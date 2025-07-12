@@ -1,5 +1,5 @@
 name: grove
-description: The Samrt way to organize everything you browse, read, and watch.
+description: The smarter way to organize everything
 publish_to: 'none'
 version: 0.1.0
 
@@ -24,4 +24,7 @@ dev_dependencies:
 
 flutter:
   uses-material-design: true
+
+  assets:
+    - assets/ 
 
